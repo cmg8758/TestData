@@ -1,0 +1,190 @@
+Freight	Date	Original	Balance	Notes 													
+4076686983	7/11/2017	$707.07 	$707.07 	Rejected by MJ due to incorrect pricing									4076686983	707.07 			
+4244173765	7/13/2017	"$1,135.69 "	"$1,135.69 "	Rejected by MJ due to incorrect pricing									4244173765	"1,135.69 "			
+2911054823	7/20/2017	"$1,177.68 "	"$1,177.68 "	Rejected by MJ due to incorrect pricing									2911504823	"1,177.68 "			
+4076687646	7/11/2017	"$1,476.80 "	"$1,476.80 "	Rejected by MJ due to incorrect pricing									4076687646	"1,476.80 "			
+4076687635	7/11/2017	"$1,643.37 "	"$1,643.37 "	Rejected by MJ due to incorrect pricing									4076687635	"1,643.37 "			
+4273619232	7/20/2017	"$1,804.13 "	"$1,804.13 "	Rejected by MJ due to incorrect pricing									4273619232	"1,804.13 "			
+4076687020	7/11/2017	"$1,827.14 "	"$1,827.14 "	Rejected by MJ due to incorrect pricing									4076687020	"1,827.14 "			
+4076687053	7/12/2017	"$1,892.37 "	"$1,892.37 "	Rejected by MJ due to incorrect pricing									4076687053	"1,892.37 "			
+4076687554	7/7/2017	"$2,040.70 "	"$2,040.70 "	Rejected by MJ due to incorrect pricing									4076687554	"2,040.70 "			
+4076687156	7/11/2017	"$2,075.45 "	"$2,075.45 "	Rejected by MJ due to incorrect pricing									4076687156	"2,075.45 "			
+4244173721	7/11/2017	"$2,369.26 "	"$2,369.26 "	Rejected by MJ due to incorrect pricing									4244173721	"2,369.26 "			
+4076687650	7/12/2017	"$2,404.88 "	"$2,404.88 "	Rejected by MJ due to incorrect pricing									4076687650	"2,404.88 "			
+4244173942	7/13/2017	"$2,487.24 "	"$2,487.24 "	Rejected by MJ due to incorrect pricing									4244173942	"2,487.24 "			
+4076687576	7/11/2017	"$2,614.58 "	"$2,614.58 "	Rejected by MJ due to incorrect pricing									4076687576	"2,614.58 "			
+4076687451	7/11/2017	"$2,649.96 "	"$2,649.96 "	Rejected by MJ due to incorrect pricing									4076687451	"2,649.96 "			
+4076687495	7/7/2017	"$2,703.94 "	"$2,703.94 "	Rejected by MJ due to incorrect pricing									4076687495	"2,703.94 "			
+4076687016	7/7/2017	"$2,925.65 "	"$2,925.65 "	Rejected by MJ due to incorrect pricing									4076687016	"2,925.65 "			
+4076687510	7/7/2017	"$2,927.06 "	"$2,927.06 "	Rejected by MJ due to incorrect pricing									4076687510	"2,927.06 "			
+4244174093	7/19/2017	"$2,951.11 "	"$2,951.11 "	Rejected by MJ due to incorrect pricing									4244174093	"2,951.11 "			
+4244174056	7/19/2017	"$3,019.01 "	"$3,019.01 "	Rejected by MJ due to incorrect pricing									4244174056	"3,019.01 "			
+4244173754	7/13/2017	"$3,071.72 "	"$3,071.72 "	Rejected by MJ due to incorrect pricing									4244173754	"3,071.72 "			
+4076687613	7/11/2017	"$3,314.97 "	"$3,314.97 "	Rejected by MJ due to incorrect pricing									4076687613	"3,314.97 "			
+4076687624	7/11/2017	"$3,470.91 "	"$3,470.91 "	Rejected by MJ due to incorrect pricing									4076687624	"3,470.91 "			
+4076687661	7/13/2017	"$3,506.36 "	"$3,506.36 "	Rejected by MJ due to incorrect pricing									4076687661	"3,506.36 "			
+4244173872	7/12/2017	"$3,509.41 "	"$3,509.41 "	Rejected by MJ due to incorrect pricing									4244173872	"3,509.41 "			
+4244173861	7/11/2017	"$3,524.32 "	"$3,524.32 "	Rejected by MJ due to incorrect pricing									4244173861	"3,524.32 "			
+4244173780	7/12/2017	"$3,548.58 "	"$3,548.58 "	Rejected by MJ due to incorrect pricing									4244173780	"3,548.58 "			
+4076687484	7/7/2017	"$3,715.58 "	"$3,715.58 "	Rejected by MJ due to incorrect pricing									4076687484	"3,715.58 "			
+4076687134	7/11/2017	"$3,768.20 "	"$3,768.20 "	Rejected by MJ due to incorrect pricing									4076687134	"3,768.20 "			
+4076687672	7/12/2017	"$3,975.94 "	"$3,975.94 "	Rejected by MJ due to incorrect pricing									4076687672	"3,975.94 "			
+4244173931	7/11/2017	"$4,098.25 "	"$4,098.25 "	Rejected by MJ due to incorrect pricing									4244173931	"4,098.25 "			
+4244173920	7/27/2017	"$4,372.75 "	"$4,372.75 "	Rejected by MJ due to incorrect pricing									4244173920	"4,372.75 "			
+4244174060	7/14/2017	"$6,481.86 "	"$6,481.86 "	Rejected by MJ due to incorrect pricing									4244174060	"6,481.86 "			
+4076687123	7/11/2017	"$6,981.53 "	"$6,981.53 "	Rejected by MJ due to incorrect pricing									4076687123	"6,981.53 "			
+4076687591	7/11/2017	"$7,408.64 "	"$7,408.64 "	Rejected by MJ due to incorrect pricing									4076687591	"7,408.64 "			
+4244173776	7/11/2017	"$7,717.06 "	"$7,717.06 "	Rejected by MJ due to incorrect pricing									4244173776	"7,717.06 "			
+																	
+4076687823	8/9/2017	$454.05 	$454.05 		4076687823	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	454.05 				4076688022-1	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	52.45 
+4244174432	8/10/2017	$478.09 	$52.45 		4244174432-1	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	52.45 				4076688055-1	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	52.45 
+4244174443	8/11/2017	$279.74 	$279.74 		4244174443	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	279.74 				4354570032-1	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	52.45 
+4244174465	8/11/2017	$279.74 	$279.74 		4244174465	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	279.74 				3258545231	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	79.52 
+4244174480	8/11/2017	$279.74 	$279.74 		4244174480	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	279.74 				3258545205	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	79.52 
+4244174502	8/11/2017	$279.74 	$279.74 		4244174502	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	279.74 				3538935046	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	79.52 
+4244174513	8/11/2017	$279.74 	$279.74 		4244174513	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	279.74 				3538935035	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	79.52 
+4291880611	8/11/2017	$284.94 	$284.94 		4291880611	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	284.94 				4245075553	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	79.52 
+4244174491	8/11/2017	$302.09 	$302.09 		4244174491	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	302.09 				3004592625	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	79.52 
+4273619361	8/11/2017	$306.62 	$306.62 		4273619361	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	306.62 				4304721923	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	196.71 
+4244174454	8/11/2017	$346.27 	$346.27 		4244174454	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	346.27 				3962864102	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	196.71 
+4273619372	8/11/2017	$354.88 	$354.88 		4273619372	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	354.88 				4305262695	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	218.65 
+4245471742	8/11/2017	$370.15 	$370.15 		4245471742	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	370.15 				4273619291	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	221.71 
+4244174561	8/12/2017	$204.48 	$204.48 		4244174561	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	204.48 				4273618694	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	221.88 
+4093776035	8/12/2017	$239.76 	$239.76 		4093776035	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	239.76 				4273619394	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	222.36 
+4244174410	8/12/2017	$249.74 	$249.74 		4244174410	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	249.74 				3004592695	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	222.53 
+4244087396	8/12/2017	$279.74 	$279.74 		4244087396	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	279.74 				4093776002	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	227.04 
+4244087411	8/12/2017	$279.74 	$279.74 		4244087411	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	279.74 				4093776024	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	227.04 
+4273619313	8/12/2017	$301.23 	$301.23 		4273619313	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	301.23 				4245075542	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	227.53 
+4244087385	8/12/2017	$450.78 	$450.78 		4244087385	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	450.78 				4245075531	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	227.53 
+4273619335	8/12/2017	$533.83 	$533.83 		4273619335	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	533.83 				4244418076	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	229.89 
+4244174572	8/12/2017	$572.07 	$572.07 		4244174572	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	572.07 				4244417914	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	229.89 
+4273619346	8/12/2017	$589.25 	$589.25 		4273619346	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	589.25 				4076687753	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	229.89 
+4244087400	8/12/2017	$718.42 	$718.42 		4244087400	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	718.42 				4076688103	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	230.22 
+4244174546	8/15/2017	$336.54 	$52.45 		4244174546-1	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	52.45 				4076688114	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	230.22 
+4244174550	8/15/2017	$539.64 	$255.55 		4244174550-1	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	255.55 				4245471775	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	246.00 
+4305262706	8/17/2017	$286.74 	$286.74 		4305262706	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	286.74 				4076687996	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	249.74 
+4273619383	8/17/2017	$532.93 	$532.93 		4273619383	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	532.93 				4244417833	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	272.33 
+4244087422	8/17/2017	$781.74 	$781.74 		4244087422	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	781.74 				4354711163	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	276.23 
+4093776013	8/18/2017	$227.04 	$227.04 		4093776013	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	227.04 				4354711185	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	276.23 
+4244174535	8/18/2017	$442.99 	$442.99 		4244174535	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	442.99 				4354711196	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	276.23 
+4076688066	8/21/2017	"$1,907.17 "	"$1,907.17 "		4076688066	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	"1,907.17 "				4354711200	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	276.23 
+4354567464	8/22/2017	$227.53 	$227.53 		4354567464	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	227.53 				4273619302	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	276.23 
+4354567475	8/22/2017	$235.19 	$235.19 		4354567475	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	235.19 				4273619350	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	276.23 
+4273619405	8/23/2017	$301.88 	$301.88 		4273619405	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	301.88 				4245075575	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	277.05 
+4295916236	8/23/2017	$332.68 	$332.68 		4295916236	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	332.68 				4245075590	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	277.05 
+4273619431	8/23/2017	$428.09 	$428.09 		4273619431	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	428.09 				4354564970	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	277.05 
+4273619420	8/23/2017	$515.01 	$515.01 		4273619420	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	515.01 				4244417881	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	279.41 
+4273619442	8/23/2017	$515.01 	$515.01 		4273619442	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	515.01 				4076687720	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	279.41 
+4273619254	8/25/2017	$271.33 	$271.33 		4273619254	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	271.33 				4076687731	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	279.41 
+4273619416	8/25/2017	$271.88 	$271.88 		4273619416	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	271.88 				4244418065	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	279.41 
+4273619243	8/25/2017	$354.40 	$354.40 		4273619243	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	354.40 				4076688044	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	279.74 
+4295916284	8/25/2017	$381.84 	$381.84 		4295916284	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	381.84 				4076688092	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	279.74 
+4273619276	8/25/2017	$496.36 	$496.36 		4273619276	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	496.36 				4244174476	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	279.74 
+4354570043	8/26/2017	$230.71 	$230.71 		4354570043	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	230.71 				4244087444	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	279.74 
+4354570021	8/26/2017	$235.83 	$235.83 		4354570021	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	235.83 				4244087433	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	279.74 
+4295916413	8/26/2017	$250.23 	$250.23 		4295916413	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	250.23 				4304724384	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	280.81 
+4354570032	8/26/2017	$406.60 	$406.60 										4076688081	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	283.39 
+4295916435	8/26/2017	$938.91 	$938.91 		4295916435	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	938.91 				4354564955	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	283.62 
+3719598676	8/29/2017	$197.53 	$197.53 		3719598676	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Return Shipment	197.53 				4244174546	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	284.09 
+4295916483	8/29/2017	$230.71 	$230.71 		4295916483	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	230.71 				4244174550	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	284.09 
+4273619501	8/29/2017	$329.50 	$329.50 		4273619501	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	329.50 				4354701234	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	295.02 
+4295916446	8/29/2017	$931.12 	$931.12 		4295916446	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	931.12 				4244174421	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	301.07 
+4273619486	8/30/2017	$197.53 	$197.53 		4273619486	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	197.53 				4305249933	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	318.79 
+4065825643	8/30/2017	$200.71 	$200.71 		4065825643	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Return Shipment	200.71 				4273619324	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	323.84 
+4295916461	8/30/2017	$200.71 	$200.71 		4295916461	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	200.71 				4273619280	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	324.92 
+4273619523	8/30/2017	$223.90 	$223.90 		4273619523	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	223.90 				4245075564	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	329.50 
+4354564944	8/30/2017	$227.53 	$227.53 		4354564944	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	227.53 				4245075586	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	329.50 
+4273619545	8/30/2017	$230.75 	$230.75 		4273619545	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	230.75 				4305249922	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	336.42 
+4354570054	8/30/2017	$261.31 	$261.31 		4354570054	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	261.31 				4304724395	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	336.90 
+4295916424	8/30/2017	$319.86 	$319.86 		4295916424	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	319.86 				4244417866	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	343.01 
+4295916450	8/30/2017	$437.78 	$437.78 		4295916450	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	437.78 				4354570032	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	354.15 
+4295916505	8/30/2017	$600.26 	$600.26 		4295916505	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	600.26 				4076688070	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	354.77 
+4355552364	8/30/2017	$722.03 	$722.03 		4355552364	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	722.03 				4076688011	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	361.02 
+4295916586	8/31/2017	$227.53 	$227.53 		4295916586	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	227.53 				4244417903	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	364.30 
+4273619571	8/31/2017	$274.98 	$274.98 		4273619571	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	274.98 				4076687764	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	375.54 
+4273619582	8/31/2017	$351.44 	$351.44 		4273619582	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	351.44 				4076688033	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	379.46 
+4295916590	8/31/2017	$375.77 	$375.77 		4295916590	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	375.77 				4076688055	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	379.86 
+4295916553	8/31/2017	$440.87 	$440.87 		4295916553	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	440.87 				4076687926	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	387.01 
+4355671110	9/1/2017	$267.84 	$267.84 		4355671110	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	267.84 				4076687974	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	387.01 
+4354564970	9/1/2017	$277.05 	$277.05 		4354564970	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	277.05 				4244174395	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	397.67 
+3937616384	9/1/2017	$280.23 	$280.23 		3937616384	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	280.23 				4076687985	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	398.76 
+3937616395	9/1/2017	$280.23 	$280.23 		3937616395	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	280.23 				4076687952	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	408.70 
+3937616476	9/1/2017	$280.65 	$280.65 		3937616476	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	280.65 				4244097664	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	409.20 
+4354564966	9/1/2017	$286.69 	$286.69 		4354564966	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	286.69 				4076687812	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	409.51 
+3937616373	9/1/2017	$314.35 	$314.35 		3937616373	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	314.35 				4244174524	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	422.49 
+4354564955	9/1/2017	$336.07 	$336.07 										4244174432	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	425.64 
+4295916564	9/1/2017	$355.43 	$355.43 		4295916564	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	355.43 				4076687963	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	427.37 
+3937616340	9/1/2017	$397.09 	$397.09 		3937616340	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	397.09 				4076688000	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	430.45 
+3422987396	9/1/2017	$412.78 	$412.78 		3422987396	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	412.78 				4076687845	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	436.53 
+4355671143	9/1/2017	$529.31 	$529.31 		4355671143	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	529.31 				4076687930	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	436.53 
+4273619512	9/1/2017	$878.89 	$878.89 		4273619512	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	878.89 				4076688136	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	437.22 
+4305262183	9/2/2017	$227.53 	$227.53 		4305262183	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	227.53 				4076687882	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	449.47 
+4295916542	9/2/2017	$242.16 	$242.16 		4295916542	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	242.16 				4076687856	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	454.19 
+4355670992	9/2/2017	$280.23 	$280.23 		4355670992	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	280.23 				4076687834	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	455.00 
+3937616421	9/2/2017	$311.64 	$311.64 		3937616421	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	311.64 				4076687860	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	475.14 
+3538939972	9/2/2017	$313.75 	$313.75 		3538939972	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	313.75 				4076687871	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	475.14 
+4295916472	9/2/2017	$410.35 	$410.35 		4295916472	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	410.35 				4076687893	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	477.17 
+4355670970	9/2/2017	$467.28 	$467.28 		4355670970	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	467.28 				4076688022	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	489.82 
+4355671084	9/2/2017	$536.59 	$536.59 		4355671084	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	536.59 				3538935050	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	498.76 
+3937616465	9/2/2017	$652.07 	$652.07 		3937616465	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	652.07 				4076687941	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	529.11 
+3258545216	9/2/2017	$847.40 	$847.40 		3258545216	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	847.40 				4076687915	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	551.53 
+4273619556	9/6/2017	$313.62 	$313.62 										4244097616	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	581.85 
+4355670955	9/6/2017	$340.22 	$340.22 										4305249911	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	596.61 
+4355671036	9/6/2017	$346.93 	$346.93 										4291880460	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	689.94 
+3258545183	9/6/2017	$359.33 	$359.33 										4076688125	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	762.94 
+4355671246	9/6/2017	$634.23 	$634.23 														
+3258545220	9/6/2017	$863.20 	$863.20 										4244174432-1	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	52.45 
+4355670981	9/6/2017	"$1,160.67 "	"$1,160.67 "										4354570032-1	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	52.45 
+4251327861	9/7/2017	$200.71 	$200.71 		4251327861	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	200.71 				4251327861	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	200.71 
+3937616631	9/7/2017	$263.97 	$263.97 		3937616631	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	263.97 				3937616620	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	220.67 
+4355671235	9/7/2017	$280.23 	$280.23 		4355671235	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	280.23 				4295916586	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	227.53 
+3937616410	9/7/2017	$280.23 	$280.23 		3937616410	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	280.23 				4305262183	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	227.53 
+4355670944	9/7/2017	$280.23 	$280.23 		4355670944	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	280.23 				4245075531	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	227.53 
+4251327872	9/7/2017	$291.06 	$291.06 		4251327872	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	291.06 				4294556232	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	232.03 
+3937616642	9/7/2017	$332.22 	$332.22 		3937616642	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	332.22 				4295916542	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	242.16 
+4251327824	9/7/2017	$332.68 	$332.68 		4251327824	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	332.68 				3937616631	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	263.97 
+4355671062	9/7/2017	$376.35 	$376.35 		4355671062	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	376.35 				4355671110	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	267.84 
+4251327813	9/7/2017	$415.30 	$415.30 		4251327813	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	415.30 				4273619571	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	274.98 
+4355670966	9/7/2017	$435.87 	$435.87 		4355670966	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	435.87 								
+4354565051	9/7/2017	$462.14 	$462.14 		4354565051	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	462.14 				3937616384	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	280.23 
+3937616336	9/7/2017	$490.21 	$490.21 		3937616336	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	490.21 				3937616395	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	280.23 
+4355671040	9/7/2017	$495.34 	$495.34 		4355671040	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	495.34 				4355670992	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	280.23 
+4273619593	9/7/2017	$495.42 	$495.42 		4273619593	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	495.42 				3937616410	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	280.23 
+4355671073	9/7/2017	$517.05 	$517.05 		4355671073	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	517.05 				4355670944	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	280.23 
+4273619560	9/7/2017	"$1,163.69 "	"$1,163.69 "		4273619560	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	"1,163.69 "				4355671235	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	280.23 
+3937616620	9/8/2017	$220.67 	$220.67 		3937616620	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	220.67 				3937616476	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	280.65 
+4294556232	9/8/2017	$232.03 	$232.03 		4294556232	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	232.03 				4354564955	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	283.62 
+4251327743	9/8/2017	$332.68 	$332.68 		4251327743	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	332.68 				4354564966	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	286.69 
+3937616362	9/8/2017	$454.44 	$454.44 		3937616362	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	454.44 				4251327872	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	291.06 
+4355671051	9/8/2017	$551.26 	$551.26 		4355671051	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	551.26 				3937616421	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	311.64 
+4273619604	9/8/2017	$562.00 	$562.00 		4273619604	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	562.00 				3538939972	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	313.75 
+4251327802	9/8/2017	$706.19 	$706.19 		4251327802	2186 FedEx Freight	2010 Vendor Account Payables : Accounts Payable	Shipment	706.19 				3937616373	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	314.35 
+4245054855	9/9/2017	$257.21 	$257.21 										3937616642	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	332.22 
+4294556221	9/9/2017	$284.48 	$284.48 										4251327824	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	332.68 
+4251327920	9/9/2017	$334.00 	$334.00 										4251327743	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	332.68 
+4294556265	9/9/2017	$334.00 	$334.00 										4273619582	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	351.44 
+4251327835	9/9/2017	$431.98 	$431.98 										4295916564	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	355.43 
+4273619615	9/9/2017	"$1,280.89 "	"$1,280.89 "										4295916590	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	375.77 
+4273619534	9/11/2017	$241.58 	$241.58 										4355671062	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	376.35 
+3962879760	9/12/2017	$196.71 	$196.71 										3937616340	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	397.09 
+4251328093	9/12/2017	$202.03 	$202.03 										4295916472	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	410.35 
+4273619464	9/12/2017	$204.52 	$204.52 										3422987396	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	412.78 
+4251327706	9/12/2017	$211.54 	$211.54 										4251327813	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	415.30 
+4273619626	9/12/2017	$222.53 	$222.53 										4355670966	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	435.87 
+4294556243	9/12/2017	$236.33 	$236.33 										4295916553	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	440.87 
+4294556206	9/12/2017	$285.85 	$285.85 										3937616362	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	454.44 
+4294556254	9/12/2017	$340.87 	$340.87 										4354565051	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	462.14 
+4294556291	9/12/2017	$342.42 	$342.42 										4355670970	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	467.28 
+4294556276	9/12/2017	$374.66 	$374.66 										3937616336	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	490.21 
+4273619475	9/12/2017	$464.58 	$464.58 										4355671040	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	495.34 
+4273619453	9/12/2017	$474.51 	$474.51 										4273619593	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	495.42 
+4273619641	9/13/2017	$222.53 	$222.53 										4355671073	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	517.05 
+4294556560	9/13/2017	$339.50 	$339.50 										4355671143	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	529.31 
+4294556582	9/13/2017	$392.73 	$392.73 										4355671084	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	536.59 
+4294556604	9/13/2017	$518.76 	$518.76 										4355671051	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	551.26 
+4294556615	9/13/2017	$641.47 	$641.47 										4273619604	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	562.00 
+4294556545	9/13/2017	$671.73 	$671.73 										3937616465	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	652.07 
+4294556512	9/13/2017	$755.91 	$755.91 										4251327802	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	706.19 
+4294556210	9/13/2017	"$1,891.67 "	"$1,891.67 "										3258545216	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	847.40 
+													4273619512	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	878.89 
+													4273619560	2010 Vendor Account Payables : Accounts Payable	Pending Approval	Shipment	"1,163.69 "
